@@ -1,4 +1,4 @@
-# AIA TA training
+# AIA iris
 
 * ***[Source code](iris.ipynb)***
 
